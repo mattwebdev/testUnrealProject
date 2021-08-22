@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-testProject-4979.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\testProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProject.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProjectCharacter.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProjectGameMode.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProjectHUD.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProjectProjectile.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProject.init.gen.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProjectCharacter.gen.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProjectGameMode.gen.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProjectHUD.gen.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\testProjectProjectile.gen.cpp.obj"
+"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\Default.rc2.res"
+/OUT:"C:\Users\matth\Documents\Unreal Projects\testProject\Intermediate\Build\Win64\UE4Editor\Development\testProject\UE4Editor-testProject-4979.lib"
